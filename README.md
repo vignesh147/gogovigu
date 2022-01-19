@@ -1,4 +1,4 @@
-# gogovigu
+# MySQL
 My first GitHub repository
 can I help you anywho please let me know---
 --- for the basics, I am doing data science, and  currently, I am focusing on python, state, and SQL 
